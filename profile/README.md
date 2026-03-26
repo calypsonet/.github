@@ -18,8 +18,8 @@ operator-centric.
   operators.
 * **UML Reference Specifications**: A central pillar of our activity. We maintain and publish comprehensive UML-based
   specifications that define the standard behavior for terminals and cards. These specifications serve as the
-  authoritative reference for the development of interoperable ticketing systems and are the foundation for the *
-  *functional certification** of terminals.
+  authoritative reference for the development of interoperable ticketing systems and are the foundation for the 
+  **functional certification** of terminals.
 
 ## Our GitHub Activities
 
